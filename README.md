@@ -2,7 +2,7 @@
 
 Une application météo simple et intuitive qui permet d'afficher les informations météorologiques d'une ville à partir de l'API OpenWeatherMap.
 
-#Fonctionnalités
+# Fonctionnalités
 
 Recherche météo par localisation.
 
@@ -18,7 +18,7 @@ Vitesse du vent.
 
 Gestion des erreurs (ville introuvable).
 
-#Technologies utilisées
+# Technologies utilisées
 
 HTML5 : structure de l'application.
 
@@ -30,7 +30,7 @@ API OpenWeatherMap : pour récupérer les données météorologiques.
 
 Font Awesome : pour les icônes.
 
-#Configuration
+# Configuration
 
 Obtenez une clé API gratuite sur OpenWeatherMap.
 
