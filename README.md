@@ -1,4 +1,4 @@
-#La Météo du Jour
+# La Météo du Jour
 
 Une application météo simple et intuitive qui permet d'afficher les informations météorologiques d'une ville à partir de l'API OpenWeatherMap.
 
